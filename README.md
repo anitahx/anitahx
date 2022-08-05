@@ -8,7 +8,5 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning C, PYTHON, HTML, CSS and JAVASCRIPT
 - 👯 I’m looking to collaborate on FRONT-END WEB DEVELOPMENT
 - 🤔 I’m looking for help with DATA STRUCTURES and ALGORITHMS
-- 📫 How to reach me: [Email][Anitah](https://mail.google.com/mail/anitaizzy4@gmail.com)
+- 📫 How to reach me: [Email](https://mail.google.com/mail/anitaizzy4@gmail.com)
 - 😄 Pronouns: she/her
-
-
